@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Lomba"
+        android:icon="@drawable/trophy"
+        android:id="@+id/lomba_id"/>
+    <item android:title="Seminar"
+        android:icon="@drawable/video_camera_front"
+        android:id="@+id/seminar_id"/>
+    <item android:title="Kuliah"
+        android:icon="@drawable/kuliah"
+        android:id="@+id/kuliah_id"/>
+</menu>
